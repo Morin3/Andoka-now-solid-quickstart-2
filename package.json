@@ -10,14 +10,14 @@
     "cypress": "^13.8.1",
     "solid-start-netlify": "^0.3.0",
     "typescript": "^4.8.3",
-    "vite": "^5.4.20"
+    "vite": "^3.2.11"
   },
   "dependencies": {
     "@solidjs/meta": "^0.28.0",
     "@solidjs/router": "^0.15.0",
-    "solid-js": "^1.5.7",
+    "solid-js": "^1.9.4",
     "solid-start": "^0.3.11",
-    "undici": "^5.28.4"
+    "undici": "^5.28.5"
   },
   "engines": {
     "node": ">=16"
